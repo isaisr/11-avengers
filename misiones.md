@@ -1,2 +1,3 @@
 # misiones
-* investigar planes de Dr Doom
+* Investigar planes de Dr Doom
+* Capturar a Red Skull
